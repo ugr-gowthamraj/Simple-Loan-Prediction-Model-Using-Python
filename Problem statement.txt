@@ -1,0 +1,4 @@
+Assume that you are an Assistant Manager (Business Development) of Indian Bank. Details of existing customers of the bank is given below. A customer is visiting your bank for some transaction. He is 25 years old, regular employee of an MNC getting ?15 lakhs as annual income. His credit rating is fair. You have to promote a newly introduced Special Term
+Loan (Interest @7%) to him. 
+Decide which classifier is suitable for this case to predict whether he buy the product or not. Justify you decision.  Write the rule and find the class (X – Buys Loan) for the following dataset by executing it in the given training
+set i.e. Loan prediction dataset.csv

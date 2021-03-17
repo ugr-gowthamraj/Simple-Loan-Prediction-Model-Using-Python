@@ -1,0 +1,15 @@
+Age,Income,Employee,Credit_Rating,Buys_Loans
+28,2400000,no,fair,no
+27,2600000,no,excellent,no
+38,2800000,no,fair,yes
+49,1600000,no,fair,yes
+48,800000,yes,fair,yes
+49,900000,yes,excellent,no
+36,600000,yes,excellent,yes
+26,1800000,no,fair,no
+24,700000,yes,fair,yes
+51,1400000,yes,fair,yes
+26,1600000,yes,excellent,yes
+39,1700000,no,excellent,yes
+40,3200000,yes,fair,yes
+50,1600000,no,excellent,no
